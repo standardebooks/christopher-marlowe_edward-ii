@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" epub:prefix="z3998: http://www.daisy.org/z3998/2012/vocab/structure/, se: https://standardebooks.org/vocab/1.0" xml:lang="en-GB">
+	<head>
+		<title>Dramatis Personae</title>
+		<link href="../css/core.css" rel="stylesheet" type="text/css"/>
+		<link href="../css/local.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body epub:type="frontmatter z3998:fiction z3998:drama">
+		<section id="dramatis-personae" epub:type="z3998:dramatis-personae">
+			<h2 epub:type="title">Dramatis Personae</h2>
+			<ul>
+				<li>
+					<p>Edward II, later deposed</p>
+				</li>
+				<li>
+					<p>Prince Edward, his son, later Edward III</p>
+				</li>
+				<li>
+					<p>Kent, brother to King Edward II</p>
+				</li>
+				<li>
+					<p>Gaveston</p>
+				</li>
+				<li>
+					<p>Archbishop of Canterbury</p>
+				</li>
+				<li>
+					<p>Bishop of Coventry</p>
+				</li>
+				<li>
+					<p>Bishop of Winchester</p>
+				</li>
+				<li>
+					<p>Warwick</p>
+				</li>
+				<li>
+					<p>Lancaster</p>
+				</li>
+				<li>
+					<p>Pembroke</p>
+				</li>
+				<li>
+					<p>Arunder</p>
+				</li>
+				<li>
+					<p>Leicester</p>
+				</li>
+				<li>
+					<p>Berkeley</p>
+				</li>
+				<li>
+					<p>Mortimer the elder</p>
+				</li>
+				<li>
+					<p>Mortimer the younger, his nephew</p>
+				</li>
+				<li>
+					<p>Spenser the elder</p>
+				</li>
+				<li>
+					<p>Spenser the younger, his son</p>
+				</li>
+				<li>
+					<p>Baldock</p>
+				</li>
+				<li>
+					<p>Baumont</p>
+				</li>
+				<li>
+					<p>Trussel</p>
+				</li>
+				<li>
+					<p>Gurney</p>
+				</li>
+				<li>
+					<p>Matrevis</p>
+				</li>
+				<li>
+					<p>Lightborn</p>
+				</li>
+				<li>
+					<p>Sir John of Hainault</p>
+				</li>
+				<li>
+					<p>Levune</p>
+				</li>
+				<li>
+					<p>Rice ap Howel</p>
+				</li>
+				<li>
+					<p>Abbot</p>
+				</li>
+				<li>
+					<p>Monks</p>
+				</li>
+				<li>
+					<p>Herald</p>
+				</li>
+				<li>
+					<p>Lords, Poor Men, James, Mower, Champion, Messengers, Soldiers, and Attendants</p>
+				</li>
+				<li>
+					<p>Queen Isabella, wife to King Edward II</p>
+				</li>
+				<li>
+					<p>Niece to King Edward II, daughter to the Duke of Gloucester</p>
+				</li>
+				<li>
+					<p>Ladies</p>
+				</li>
+			</ul>
+		</section>
+	</body>
+</html>
