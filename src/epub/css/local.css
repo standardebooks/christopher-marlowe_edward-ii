@@ -20,10 +20,6 @@
 	font-style: italic;
 	margin: 1em;
 }
-
-[epub|type~="z3998:dramatis-personae"] ul + p{
-	margin-top: 2em;
-}
 /* End dramatis personae */
 
 /* Play */
@@ -91,58 +87,23 @@ section[epub|type~="z3998:scene"] > p{
 /* End play */
 
 /* Verse, song */
-[epub|type~="z3998:verse"] p,
-[epub|type~="z3998:song"] p{
+[epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span,
-[epub|type~="z3998:song"] p > span{
+[epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br,
-[epub|type~="z3998:song"] p > span + br{
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
 }
 /* End verse, song */
 
-/* Dialogue */
-tr.together{
-	break-inside: avoid;
-}
-
-tr.together td{
-	padding: 0 .5em 0 0;
-	vertical-align: middle;
-}
-
-tr.together td + td{
-	border-left: 1px solid;
-}
-
-[epub|type~="z3998:drama"] .together td:last-child{
-	padding-left: .5em;
-}
-/* End dialogue */
-
 /* Letter */
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
-}
-
 footer{
 	margin-top: 1em;
 }
