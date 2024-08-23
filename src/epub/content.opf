@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/christopher-marlowe/edward-ii</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-23T19:01:11Z</dc:date>
+		<meta property="dcterms:modified">2024-08-23T19:01:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">Edward II reigns over England until his murder.</dc:description>
+		<dc:description id="description">Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Edward II&lt;/i&gt; is one of the earliest of the English history plays. The narrative begins late in Edward’s reign, when his court is concerned and disgusted by his almost inexplicably close relationship with the nobeleman Gaveston. Gaveston has just returned from exile, much to the chagrin of Edward’s court. Gaveston wasn’t born a noble, but holds immense wealth and titles bestowed upon him by Edward; and when Edward begins scorning his own wife in favor of Gaveston’s company, the rest of the nobles immediately demand his explusion from England. Edward must reluctantly oblige—but by then it’s too late, for the wheels of conspiracy are already in motion.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/christopher-marlowe"&gt;Marlowe&lt;/a&gt; depicts Edward and Gaveston’s relationship as a clearly homosexual one, and the themes and events of the play revolve around their relationship’s taboo nature. But the play also focuses on social status, as well: the nobles appear to be just as offended that Gaveston, a commoner, is gifted the benefits of nobility by Edward, as they are by the couple’s homoerotic relationship.&lt;/p&gt;
+			&lt;p&gt;The play is based on material found in &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;, the same book of history that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; used as a source for many of his own history plays. Marlowe stayed fairly true to history, despite some embellishments; consequently the play was of interest and performed with regularity well into the seventeenth century, with frequent revivals since.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20288</dc:source>
 		<dc:source>https://www.google.com/books/edition/Edward_the_Second/F2Y9AQAAIAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">23607</meta>
+		<meta property="se:reading-ease.flesch">74.19</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Edward_II</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/christopher-marlowe_edward-ii</meta>
 		<dc:creator id="author">Christopher Marlowe</dc:creator>
