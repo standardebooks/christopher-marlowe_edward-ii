@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/christopher-marlowe/edward-ii</dc:identifier>
 		<dc:date>2024-08-23T19:01:11Z</dc:date>
@@ -40,12 +40,12 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:description id="description">Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Edward II&lt;/i&gt; is one of the earliest English history plays. The narrative begins late in Edward’s reign, when his court is concerned and disgusted by his almost inexplicably close relationship with the nobleman Gaveston. Gaveston has just returned from exile, much to the chagrin of Edward’s court. He wasn’t born a noble, but holds immense wealth and titles bestowed upon him by Edward, as well as his almost complete attention; and when Edward begins scorning his own wife in favor of Gaveston’s company, the rest of the nobles immediately demand his expulsion from England. Edward must reluctantly oblige—but by then it’s too late, for the wheels of conspiracy are already in motion.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/christopher-marlowe"&gt;Marlowe&lt;/a&gt; depicts Edward and Gaveston’s relationship as a clearly homosexual one, and the themes and events of the play revolve around their relationship’s taboo nature. But the play also focuses on social status: the nobles appear to be just as offended that Gaveston, a commoner, is gifted the benefits of nobility by Edward, as they are by the couple’s homoerotic relationship.&lt;/p&gt;
 			&lt;p&gt;The play is based on material found in &lt;i&gt;Holinshed’s Chronicles&lt;/i&gt;, the same book of history that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; used as a source for many of his own history plays. Marlowe stayed fairly true to history, despite some embellishments; consequently the play was of interest and performed with regularity well into the seventeenth century, with frequent revivals since.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20288</dc:source>
 		<dc:source>https://www.google.com/books/edition/Edward_the_Second/F2Y9AQAAIAAJ</dc:source>
