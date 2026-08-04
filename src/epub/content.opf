@@ -40,7 +40,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.</dc:abstract>
+		<meta property="schema:abstract">Outraged by the favoritism shown by King Edward II to a close confidant, his court plots against him.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Edward II&lt;/i&gt; is one of the earliest English history plays. The narrative begins late in Edward’s reign, when his court is concerned and disgusted by his almost inexplicably close relationship with the nobleman Gaveston. Gaveston has just returned from exile, much to the chagrin of Edward’s court. He wasn’t born a noble, but holds immense wealth and titles bestowed upon him by Edward, as well as his almost complete attention; and when Edward begins scorning his own wife in favor of Gaveston’s company, the rest of the nobles immediately demand his expulsion from England. Edward must reluctantly oblige—but by then it’s too late, for the wheels of conspiracy are already in motion.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/christopher-marlowe"&gt;Marlowe&lt;/a&gt; depicts Edward and Gaveston’s relationship as a clearly homosexual one, and the themes and events of the play revolve around their relationship’s taboo nature. But the play also focuses on social status: the nobles appear to be just as offended that Gaveston, a commoner, is gifted the benefits of nobility by Edward, as they are by the couple’s homoerotic relationship.&lt;/p&gt;
